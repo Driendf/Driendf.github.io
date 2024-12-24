@@ -7,26 +7,10 @@ const filterDobladoButton = document.getElementById("filter-doblado");
 let currentPage = 1;
 let filterDoblado = false;
 let searchTerm = "";
-const itemsPerPage = 9;
+const itemsPerPage = 33;
 
 // Lista inicial de películas
 let movies = [
-  {
-    title: "Lanza Fénix (Doblado)",
-    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBAldafMrwOy270ATiLklmGmsfUXyw-QEBEasoeQxekVOmBz_024-FttA7hjpea4CrW2Ys63Lt9TFGrXKOfzjuxRUihYGPNUigSRtUil1lfS3ChRjAUWc3mW7A5X-q0hn6mQTNNXowf4Py5GCtmvKGQOTimnhoqxEvnPaS0ntiNGoseprwLqItJfiOR_w/s2200/000.jpg",
-    doblado: true,
-    link: "https://www.dramabreeze.site/2024/12/ecos-del-mar-rojo.html"
-  },
-  {
-    title: "Lanza Fénix (Subtitulada)",
-    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBAldafMrwOy270ATiLklmGmsfUXyw-QEBEasoeQxekVOmBz_024-FttA7hjpea4CrW2Ys63Lt9TFGrXKOfzjuxRUihYGPNUigSRtUil1lfS3ChRjAUWc3mW7A5X-q0hn6mQTNNXowf4Py5GCtmvKGQOTimnhoqxEvnPaS0ntiNGoseprwLqItJfiOR_w/s2200/000.jpg",
-    doblado: false,
-    link: "https://www.dramabreeze.site/2024/12/ecos-del-mar-rojo.html"
-  },
-];
-
-// Películas adicionales que se mezclarán
-const additionalMovies = [
 {
     title: "Puño de hierro, corazón tierno",
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVDjc7ZhuCfo1C05S9-pDLOjJrpa5Ms0eDM-oWivtDEoZQLlZRDCJUC5U_DaJGeg9VF1Weg-TtOfSszkKRWOE4wcQBor0Vi1gam2F8qMKdNQ9OSs-tfIJqNkVTC84RYSn9PWyQNHR56WgM00HXxolPSgwAVG-dPpQ7EjXX1NNAQ1F52CxBHU_D_ODThCo/w600/000.jpg",
@@ -508,6 +492,10 @@ const additionalMovies = [
     Subtítulos: true,
     link: "https://dramabreezemovie.blogspot.com/2024/11/el-contraataque-de-la-esposa-gorda.html"
 },
+];
+
+// Películas adicionales que se mezclarán
+const additionalMovies = [
 {
     title: "A Estrella para toda mi vida",
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYgLUJVgELPEHrHd52zHdjwpDFMl1DxkH0YQFoscaTvDeIN669wxPuSbKw5oyKLcVPocXw9hBOO4F7SMSn9kTMLHx1in2EnVcpRUGogkeL1rQB5_Qlr5G_l_dES_zywwk95_ZSneHsQxa52bRj4lLbjGtNApY1qZ5Tf5bMhDReopj6MEZsaSNNyDLRUiw/w600/T1%20EP.000%20%28SubEsp%29%20A%20Estrella%20para%20toda%20mi%20vida.jpg",
