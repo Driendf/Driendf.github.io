@@ -60,6 +60,7 @@
         display: none;
         flex-direction: column;
         gap: 15px;
+        color: #ffffff;
     }
 
     .server-item {
