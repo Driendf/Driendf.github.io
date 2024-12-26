@@ -149,10 +149,6 @@
         display: none;
     }
 
-    .post-feeds {
-        display: none;
-    }
-
       /* Responsive Design */
     @media (max-width: 768px) {
     .server-lists {
