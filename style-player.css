@@ -148,6 +148,31 @@
     div#blog-pager {
         display: none;
     }
+/* Personalización del scrollbar para navegadores basados en WebKit */
+.server-lists::-webkit-scrollbar {
+    width: 12px; /* Ancho del scrollbar */
+}
+
+.server-lists::-webkit-scrollbar-track {
+    background: #1e1e2f; /* Color del fondo del track del scrollbar */
+    border-radius: 10px; /* Bordes redondeados */
+}
+
+.server-lists::-webkit-scrollbar-thumb {
+    background: #6a67ce; /* Color del thumb (el indicador del scrollbar) */
+    border-radius: 10px;
+    border: 3px solid #1e1e2f; /* Espacio entre el thumb y el track */
+}
+
+.server-lists::-webkit-scrollbar-thumb:hover {
+    background: #524e9e; /* Color del thumb al pasar el mouse */
+}
+
+/* Estilo para navegadores que usan scrollbar-color (Firefox) */
+.server-lists {
+    scrollbar-width: thin; /* Ancho del scrollbar: auto, thin, o none */
+    scrollbar-color: #6a67ce #1e1e2f; /* Thumb y track */
+}
 
       /* Responsive Design */
     @media (max-width: 768px) {
