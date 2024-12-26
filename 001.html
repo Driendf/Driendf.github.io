@@ -1,4 +1,53 @@
-<div class="video-player-container">
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reproductor de Video</title>
+    <link rel="stylesheet" type="text/css" href="https://driendf.github.io/style-player.css">
+    <style>
+        /* Estilo del preloader */
+        #preloader {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: #000;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 9999;
+        }
+
+        .loader {
+            border: 5px solid #f3f3f3;
+            border-top: 5px solid #3498db;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+</head>
+<body>
+
+<!-- Preloader -->
+<div id="preloader">
+    <div class="loader"></div>
+</div>
+
+<!-- Contenedor del reproductor de video -->
+<div class="video-player-container" style="display: none;">
     <!-- Selector de Idioma con banderas -->
     <div id="language-selector" class="language-selector">
         <img src="https://saidochesto.top/static/lang/SUB.png" alt="JP" onclick="showServers('JP')" class="flag-icon">
@@ -8,7 +57,7 @@
 
     <!-- Contenedor de Lista de Servidores -->
     <div id="server-lists" class="server-lists">
- <script src="https://driendf.github.io/001.js"></script>
+        <script src="https://driendf.github.io/001.js"></script>
 
         <!-- Lista de Servidores para Latino -->
         <div id="latino-servers" class="server-list" style="display: flex;">
@@ -26,63 +75,13 @@
                     <p>Max. 0 ventanas de publicidad | HD</p>
                 </div>
             </div>
-          <div class="server-item" onclick="loadVideo('https://short.ink/IuDiDQIIg')">
+            <div class="server-item" onclick="loadVideo('https://short.ink/IuDiDQIIg')">
                 <img src="https://i.imgur.com/mZVCUNO.png" alt="Filemoon">
                 <div>
                     <strong>FILEMOON</strong>
                     <p>Max. 0 ventanas de publicidad | HD</p>
                 </div>
             </div>
-          <div class="server-item" onclick="loadVideo('https://filemoon.to/e/f8csx9tz8sxd/xxl_full.mp4')">
-                <img src="https://i.imgur.com/mZVCUNO.png" alt="Filemoon">
-                <div>
-                    <strong>FILEMOON</strong>
-                    <p>Max. 2 ventanas de publicidad | HD</p>
-                </div>
-            </div>
-                    <div class="server-item" onclick="loadVideo('https://filemoon.to/e/f8csx9tz8sxd/xxl_full.mp4')">
-                <img src="https://i.imgur.com/mZVCUNO.png" alt="Filemoon">
-                <div>
-                    <strong>FILEMOON</strong>
-                    <p>Max. 2 ventanas de publicidad | HD</p>
-                </div>
-            </div>
-                    <div class="server-item" onclick="loadVideo('https://filemoon.to/e/f8csx9tz8sxd/xxl_full.mp4')">
-                <img src="https://i.imgur.com/mZVCUNO.png" alt="Filemoon">
-                <div>
-                    <strong>FILEMOON</strong>
-                    <p>Max. 2 ventanas de publicidad | HD</p>
-                </div>
-            </div>
-                    <div class="server-item" onclick="loadVideo('https://filemoon.to/e/f8csx9tz8sxd/xxl_full.mp4')">
-                <img src="https://i.imgur.com/mZVCUNO.png" alt="Filemoon">
-                <div>
-                    <strong>FILEMOON</strong>
-                    <p>Max. 2 ventanas de publicidad | HD</p>
-                </div>
-            </div>
-                    <div class="server-item" onclick="loadVideo('https://filemoon.to/e/f8csx9tz8sxd/xxl_full.mp4')">
-                <img src="https://i.imgur.com/mZVCUNO.png" alt="Filemoon">
-                <div>
-                    <strong>FILEMOON</strong>
-                    <p>Max. 2 ventanas de publicidad | HD</p>
-                </div>
-            </div>
-                    <div class="server-item" onclick="loadVideo('https://filemoon.to/e/f8csx9tz8sxd/xxl_full.mp4')">
-                <img src="https://i.imgur.com/mZVCUNO.png" alt="Filemoon">
-                <div>
-                    <strong>FILEMOON</strong>
-                    <p>Max. 2 ventanas de publicidad | HD</p>
-                </div>
-            </div>
-                    <div class="server-item" onclick="loadVideo('https://filemoon.to/e/f8csx9tz8sxd/xxl_full.mp4')">
-                <img src="https://i.imgur.com/mZVCUNO.png" alt="Filemoon">
-                <div>
-                    <strong>FILEMOON</strong>
-                    <p>Max. 2 ventanas de publicidad | HD</p>
-                </div>
-            </div>
-          
         </div>
 
         <!-- Lista de Servidores para Castellano -->
@@ -102,6 +101,8 @@
                 </div>
             </div>
         </div>
+
+        <!-- Lista de Servidores para Japonés -->
         <div id="JP-servers" class="server-list" style="display: none;">
             <div class="server-item" onclick="loadVideo('https://geo.dailymotion.com/player.html?video=k25jnkIlqVNJEPC2Urm')">
                 <img src="URL_DE_ICONO_STREAMWISH" alt="Streamwish">
@@ -127,8 +128,15 @@
     </div>
 </div>
 
-<link rel="stylesheet" type="text/css" href="https://driendf.github.io/style-player.css">
-
-
 <script src="https://driendf.github.io/player-multi.js"></script>
 
+<script>
+    // Mostrar el contenido después de que la página se haya cargado
+    window.onload = function () {
+        document.getElementById('preloader').style.display = 'none';
+        document.querySelector('.video-player-container').style.display = 'block';
+    };
+</script>
+
+</body>
+</html>
