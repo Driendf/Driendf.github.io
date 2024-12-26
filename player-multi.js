@@ -27,4 +27,9 @@
       document.getElementById('language-selector').style.display = 'flex';
 
     }
+    // Mostrar el contenido después de que la página se haya cargado
+    window.onload = function () {
+        document.getElementById('preloader').style.display = 'none';
+        document.querySelector('.video-player-container').style.display = 'block';
+    };
 //]]>
