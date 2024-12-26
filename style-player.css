@@ -180,6 +180,11 @@
         overflow-y: scroll;
         height: 230px;
     }
+      #preloader .content {
+    font-size: 13px;
+    width: 280px;
+    height: 90px;
+}
     }
 
     @media (max-width: 480px) {
@@ -187,5 +192,10 @@
         overflow-y: scroll;
         height: 130px;
     }
+      #preloader .content {
+    font-size: 13px;
+    width: 280px;
+    height: 90px;
+}
     }
 </style>
