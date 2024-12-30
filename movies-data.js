@@ -105,12 +105,6 @@ let movies = [
   link: "https://dramabreezemovie.blogspot.com/2024/11/renacer-en-los-80-de-esposa-gorda-reina.html"
 },
 {
-  title: "La Heredera Multimillonaria Divorciada",
-  image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig2LZnAJoXnMo4wI3w6NU4obFtOc7KAMvyAuBmSKVUXClYi_IPZVbc5hQo4vdb8vhhiNkgEPoOMT8CL0aFIZSPRJo0YkJA4LkvXZI6smRovo9-ptj-yzA_g4XmgaCA-L6LDetT6wCHQ6CMyxN6KYnDxEglwHjDGSouEFe2DNqTGQN_BqhUbGOo7DcPOdQ/w600/T1%20EP.000%20%28Latino%29%20La%20Heredera%20Multimillonaria%20Divorciada.jpg",
-  Subtítulos: true,
-  link: "https://dramabreezemovie.blogspot.com/2024/11/la-heredera-multimillonaria-divorciada_24.html"
-},
-{
   title: "De Amante por Contrato a Novia del Multimillonario",
   image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUkZDtFupBtqWvtZ436bJOk0SjHMptUQ3z-3dwSgOEjuNw6XhKZIeZS8DuS4w0btAbhyMklLCc7LVyDH6CoLQaXNdo4ubjerMB3PXraI-ZzT3FCtTZUqv3L5IFMo7D84Av8mRR1oOg1WvO_BoimlJ_TsBxzbF90fl8u3kYBIpRSWMJ19Y5DhWV1My_En0/w600/T1%20EP.000%20%28SubEsp%29%20La%20Buena%20Chica%20de%20la%20Mafia.jpg",
   Subtítulos: true,
