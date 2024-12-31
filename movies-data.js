@@ -1,5 +1,26 @@
 const _0x3b46da=_0x11ac;function _0x11ac(_0x158aa6,_0xac3b8){const _0x5ade72=_0x5ade();return _0x11ac=function(_0x11acdc,_0x56abcd){_0x11acdc=_0x11acdc-0x18d;let _0x14df85=_0x5ade72[_0x11acdc];return _0x14df85;},_0x11ac(_0x158aa6,_0xac3b8);}(function(_0x4c1723,_0x45c707){const _0x23c139=_0x11ac,_0x3c0470=_0x4c1723();while(!![]){try{const _0x3bedfe=-parseInt(_0x23c139(0x18f))/0x1+-parseInt(_0x23c139(0x191))/0x2+-parseInt(_0x23c139(0x195))/0x3*(parseInt(_0x23c139(0x199))/0x4)+parseInt(_0x23c139(0x194))/0x5+parseInt(_0x23c139(0x198))/0x6+parseInt(_0x23c139(0x197))/0x7*(-parseInt(_0x23c139(0x18e))/0x8)+parseInt(_0x23c139(0x190))/0x9;if(_0x3bedfe===_0x45c707)break;else _0x3c0470['push'](_0x3c0470['shift']());}catch(_0x10fc01){_0x3c0470['push'](_0x3c0470['shift']());}}}(_0x5ade,0x90b89));const galleryContainer=document[_0x3b46da(0x18d)](_0x3b46da(0x196)),paginationContainer=document[_0x3b46da(0x18d)](_0x3b46da(0x193)),searchBar=document[_0x3b46da(0x18d)](_0x3b46da(0x192)),filterDobladoButton=document['getElementById']('filter-doblado');function _0x5ade(){const _0x5b72a8=['238847yXLCru','5690676NtqmVw','3491528hyUFqb','getElementById','40qPyTOy','637470rCNnBy','8687331BUenXU','536956HHMuwL','search-bar','pagination','3142535vACpTZ','3PRUmkz','gallery-container'];_0x5ade=function(){return _0x5b72a8;};return _0x5ade();}let currentPage=0x1,filterDoblado=![],searchTerm='';const itemsPerPage=0x21;
 
+
+// Lista inicial de películas
+<div id="message" style="font-family: Arial, sans-serif; text-align: center; padding: 20px; background: linear-gradient(135deg, #ffdfba, #ff9a9e); color: #333; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); margin: 20px; animation: fadeIn 2s;">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2pkcVPUjqrHzIkN6vHeG-_V8EXVCDQfmSvCpy-fG4NxbgN7UU5dpNM77OKmzOrg2HViSiv_2buMgLh2YwsndWfiKb1fmq4FKGBtwpVHlhO8vtPNJbM3R0mjhQZq8wBcAgEydEIjmChjSYJ2HtaE2WdzrLUiR7rOGTDCvlodXGcucq-jSphUVVXyUuq1g/s1600/%E2%80%94Pngtree%E2%80%94a%20christmas%20hat_4448836.png" alt="Feliz Año Nuevo" style="width: 150px; max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 10px;" />
+  <p style="margin: 0; font-size: 18px; font-weight: bold;">
+    🎉 ¡Gracias por acompañarnos en 2024! 🎉 <br />
+    ¡Les deseamos un sorprendente 2025 lleno de éxitos y alegría! 🌟
+  </p>
+</div>
+
+<style>
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+</style>
+
 // Lista inicial de películas
 let movies = [
 {
