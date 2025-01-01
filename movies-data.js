@@ -5,6 +5,12 @@ const _0x3b46da=_0x11ac;function _0x11ac(_0x158aa6,_0xac3b8){const _0x5ade72=_0x
 // Lista inicial de películas
 let movies = [
 {
+    title: "Rechazada por el Alfa (Doblado)",
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKcUl-nmBbgahQmtjB60jPgfwJYVSxrRdwi32GD0TmMiqcCabZCZEma0Nh9eGRF-jApSj3NUGzZOIR5gzs3p-zwhwCHm4Lqhk8EXvFQyaEpA92Nx10Wil1-WM59jBp2nMRglWs204Mqw4-f29-S9vUjO3BqvmChLVEp0aqHPQ6Wl5sc6qEfgH3h94Z4qU/w600/000.jpg",
+    Subtítulos: true,
+    link: "https://dramabreezemovie.blogspot.com/2025/01/rechazada-por-el-alfa-doblado.html"
+},
+{
     title: "Puño de hierro, corazón tierno",
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVDjc7ZhuCfo1C05S9-pDLOjJrpa5Ms0eDM-oWivtDEoZQLlZRDCJUC5U_DaJGeg9VF1Weg-TtOfSszkKRWOE4wcQBor0Vi1gam2F8qMKdNQ9OSs-tfIJqNkVTC84RYSn9PWyQNHR56WgM00HXxolPSgwAVG-dPpQ7EjXX1NNAQ1F52CxBHU_D_ODThCo/w600/000.jpg",
     Subtítulos: true,
