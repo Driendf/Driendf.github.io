@@ -7,7 +7,7 @@ let movies = [
 {
     title: "Rechazada por el Alfa (Doblado)",
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKcUl-nmBbgahQmtjB60jPgfwJYVSxrRdwi32GD0TmMiqcCabZCZEma0Nh9eGRF-jApSj3NUGzZOIR5gzs3p-zwhwCHm4Lqhk8EXvFQyaEpA92Nx10Wil1-WM59jBp2nMRglWs204Mqw4-f29-S9vUjO3BqvmChLVEp0aqHPQ6Wl5sc6qEfgH3h94Z4qU/w600/000.jpg",
-    Subtítulos: true,
+    doblado: true,
     link: "https://dramabreezemovie.blogspot.com/2025/01/rechazada-por-el-alfa-doblado.html"
 },
 {
