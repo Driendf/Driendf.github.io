@@ -8,7 +8,7 @@ let movies = [
     title: "De Regreso a los 80 (Doblado)",
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9dNahqih6zPBsPcIZWABQngbdXu9ucAk7pls5fx63MYSmyOo2Ewlvz16G56NNUFzSzhHJzqTOLkPUz_Pdb2LNaIUMkGokwKmv_1E2yKGp1CBBUtoDfLLWjjdvnV6k1gmDWeH9H66cxxBJdfcFk2NlPVovJPl65_wRt4OwrjKnvPpyo6xZpgoDcuAWoIQ/w600/0000.jpg",
     doblado: true,
-    link: "https://dramabreezemovie.blogspot.com/2024/11/renacer-en-los-80-de-esposa-gorda-reina.html"
+    link: "https://dramabreezemovie.blogspot.com/2024/11/de-regreso-los-80.html"
 },
 {
     title: "Rechazada por el Alfa (Doblado)",
