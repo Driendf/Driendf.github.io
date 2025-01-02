@@ -5,6 +5,12 @@ const _0x3b46da=_0x11ac;function _0x11ac(_0x158aa6,_0xac3b8){const _0x5ade72=_0x
 // Lista inicial de películas
 let movies = [
 {
+    title: "De Regreso a los 80 (Doblado)",
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKcUl-nmBbgahQmtjB60jPgfwJYVSxrRdwi32GD0TmMiqcCabZCZEma0Nh9eGRF-jApSj3NUGzZOIR5gzs3p-zwhwCHm4Lqhk8EXvFQyaEpA92Nx10Wil1-WM59jBp2nMRglWs204Mqw4-f29-S9vUjO3BqvmChLVEp0aqHPQ6Wl5sc6qEfgH3h94Z4qU/w600/000.jpg",
+    doblado: true,
+    link: "https://dramabreezemovie.blogspot.com/2024/11/renacer-en-los-80-de-esposa-gorda-reina.html"
+},
+{
     title: "Rechazada por el Alfa (Doblado)",
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKcUl-nmBbgahQmtjB60jPgfwJYVSxrRdwi32GD0TmMiqcCabZCZEma0Nh9eGRF-jApSj3NUGzZOIR5gzs3p-zwhwCHm4Lqhk8EXvFQyaEpA92Nx10Wil1-WM59jBp2nMRglWs204Mqw4-f29-S9vUjO3BqvmChLVEp0aqHPQ6Wl5sc6qEfgH3h94Z4qU/w600/000.jpg",
     doblado: true,
