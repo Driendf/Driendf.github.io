@@ -5,10 +5,15 @@ const _0x3b46da=_0x11ac;function _0x11ac(_0x158aa6,_0xac3b8){const _0x5ade72=_0x
 // Lista inicial de películas
 let movies = [
 {
-    title: "De Regreso a los 80 (Doblado)",
-    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9dNahqih6zPBsPcIZWABQngbdXu9ucAk7pls5fx63MYSmyOo2Ewlvz16G56NNUFzSzhHJzqTOLkPUz_Pdb2LNaIUMkGokwKmv_1E2yKGp1CBBUtoDfLLWjjdvnV6k1gmDWeH9H66cxxBJdfcFk2NlPVovJPl65_wRt4OwrjKnvPpyo6xZpgoDcuAWoIQ/w600/0000.jpg",
+    title: "Madrastra del Otro Mundo",
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMdaAelj2Y_8IRU6P3Ju3In1-1HWP0Tfe3A_eQPx4k4gB9uxt2OzX9PKAgfhMfUCTXR0iwXfoEE99uYPgZpU21mL5oLLdEdpNvbgp-Sz_gzHnCBKNktswyH9L7a9I5ColXOuxDVFugEpnnT7KhKApIMPK3LA-OyClyQwgPkCqngViF_DUZ_ar1B4ffnMg/w600/00000.jpg",
     doblado: true,
     link: "https://dramabreezemovie.blogspot.com/2024/11/de-regreso-los-80.html"
+},
+{
+    title: "De Regreso a los 80 (Doblado)",
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9dNahqih6zPBsPcIZWABQngbdXu9ucAk7pls5fx63MYSmyOo2Ewlvz16G56NNUFzSzhHJzqTOLkPUz_Pdb2LNaIUMkGokwKmv_1E2yKGp1CBBUtoDfLLWjjdvnV6k1gmDWeH9H66cxxBJdfcFk2NlPVovJPl65_wRt4OwrjKnvPpyo6xZpgoDcuAWoIQ/w600/0000.jpg",
+    link: "https://dramabreezemovie.blogspot.com/2025/01/madrastra-del-otro-mundo.html"
 },
 {
     title: "Rechazada por el Alfa (Doblado)",
