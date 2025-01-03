@@ -5,6 +5,11 @@ const _0x3b46da=_0x11ac;function _0x11ac(_0x158aa6,_0xac3b8){const _0x5ade72=_0x
 // Lista inicial de películas
 let movies = [
 {
+    title: "El Resurgimiento del Gran Soberano",
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfcXDk_9mR09dWPebvSGPzLvOw3nEDuRlf0cykgLWU6MUAFVsMFq2DNeV835XgwH7B0V720Vho61OlSoMfK3mSFxXlSpdJFfm-1kjMz46yuawuzGfRYxtUqiJTtidpdiNM17WV3Egz4kqabl9YGx_ycVfDHyITYUgUWcfNVB0izHIHAT4V4Lpb15_XqeY/s320/000.jpg",
+    link: "https://dramabreezemovie.blogspot.com/2025/01/el-resurgimiento-del-gran-soberano.html"
+},
+{
     title: "Madrastra del Otro Mundo",
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMdaAelj2Y_8IRU6P3Ju3In1-1HWP0Tfe3A_eQPx4k4gB9uxt2OzX9PKAgfhMfUCTXR0iwXfoEE99uYPgZpU21mL5oLLdEdpNvbgp-Sz_gzHnCBKNktswyH9L7a9I5ColXOuxDVFugEpnnT7KhKApIMPK3LA-OyClyQwgPkCqngViF_DUZ_ar1B4ffnMg/w600/00000.jpg",
     link: "https://dramabreezemovie.blogspot.com/2025/01/madrastra-del-otro-mundo.html"
