@@ -45,7 +45,7 @@ let movies = [
 {
     title: "Puño de hierro, corazón tierno",
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVDjc7ZhuCfo1C05S9-pDLOjJrpa5Ms0eDM-oWivtDEoZQLlZRDCJUC5U_DaJGeg9VF1Weg-TtOfSszkKRWOE4wcQBor0Vi1gam2F8qMKdNQ9OSs-tfIJqNkVTC84RYSn9PWyQNHR56WgM00HXxolPSgwAVG-dPpQ7EjXX1NNAQ1F52CxBHU_D_ODThCo/w600/000.jpg",
-    Subtítulos: true,
+    Subtítulos: false,
     link: "https://dramabreezemovie.blogspot.com/2024/11/puno-de-hierro-corazon-tierno.html"
 },
 {
