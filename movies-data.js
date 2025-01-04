@@ -5,6 +5,11 @@ const _0x3b46da=_0x11ac;function _0x11ac(_0x158aa6,_0xac3b8){const _0x5ade72=_0x
 // Lista inicial de películas
 let movies = [
 {
+    title: "Venganza Después del Renacimiento",
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejrlUECKjzB3spcADqSBA06KOFXpdnfZfvxjUGnboBwKhu2N6oMWGPBqm6xdftQYpzcTT7_Gtv002i5Vsby36g2KsGZQ_greEYUjvPdHOBNqwe0abkfBrcyDaGTTzBYuA9PBIHYPOTg_FviiW8etGdVhbhnjM8XWsJFz-guTqbRi0QtVa9pV0BCvUufM/w600/T1%20EP.000%20%20%28SubEsp%29%20Venganza%20Despu%C3%A9s%20del%20Renacimiento.jpg",
+    link: "https://dramabreezemovie.blogspot.com//2025/01/venganza-despues-del-renacimiento.html"
+},
+{
     title: "Me Encanta la Manera en que Mientes",
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3C1NQisE4I9I6FxbjB04yyBLShQmmiQAioa0FmgAnvZtk9sN5rEzJNJi89sKiJCz1ljYw8Go3JdglaC3NBTQsHts_14mwjaTsWc5l6Jzq2mPx7p_rvlREQ1V1yiQGb0e3DnyEDoYaJgBbJb_2HBS_N5cwRamkFboTRa2-dYHJHcjxqRav-teeZZpZGsw/w600/000.jpg",
     link: "https://dramabreezemovie.blogspot.com/2024/11/me-encanta-la-manera-en-que-mientes.html"
