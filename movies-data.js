@@ -5,6 +5,12 @@ const _0x3b46da=_0x11ac;function _0x11ac(_0x158aa6,_0xac3b8){const _0x5ade72=_0x
 // Lista inicial de películas
 let movies = [
 {
+    title: "El Juicio de la Heredera (Doblado)",
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid_1km5nWCAqRnlqLfH8_DKMg6-94hBE6iVgTwCrd2rmepnziZD7ibJInl-RIRYnBnymuuRtmK4C2uvzcvdNtgAAEZ1F_-O3iLVnXrkv8jTrWmkWg0gvbuVrZmZeZYewrsp8dqWICY9QHD8xHUGbmGhfnODQzDwdebYlZBg-mcMeRveR6DdFnZp0-izSo/w600/T1%20EP.000%20%20%28Latino%29%20El%20Juicio%20de%20la%20Heredera%20%28Doblado%29.jpg",
+    doblado: true,
+    link: "https://dramabreezemovie.blogspot.com/2025/01/el-juicio-de-la-heredera-doblado.html"
+},
+{
     title: "Venganza Después del Renacimiento",
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejrlUECKjzB3spcADqSBA06KOFXpdnfZfvxjUGnboBwKhu2N6oMWGPBqm6xdftQYpzcTT7_Gtv002i5Vsby36g2KsGZQ_greEYUjvPdHOBNqwe0abkfBrcyDaGTTzBYuA9PBIHYPOTg_FviiW8etGdVhbhnjM8XWsJFz-guTqbRi0QtVa9pV0BCvUufM/w600/T1%20EP.000%20%20%28SubEsp%29%20Venganza%20Despu%C3%A9s%20del%20Renacimiento.jpg",
     link: "https://dramabreezemovie.blogspot.com//2025/01/venganza-despues-del-renacimiento.html"
