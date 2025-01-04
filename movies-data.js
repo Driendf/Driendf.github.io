@@ -5,6 +5,11 @@ const _0x3b46da=_0x11ac;function _0x11ac(_0x158aa6,_0xac3b8){const _0x5ade72=_0x
 // Lista inicial de películas
 let movies = [
 {
+    title: "Me Encanta la Manera en que Mientes",
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3C1NQisE4I9I6FxbjB04yyBLShQmmiQAioa0FmgAnvZtk9sN5rEzJNJi89sKiJCz1ljYw8Go3JdglaC3NBTQsHts_14mwjaTsWc5l6Jzq2mPx7p_rvlREQ1V1yiQGb0e3DnyEDoYaJgBbJb_2HBS_N5cwRamkFboTRa2-dYHJHcjxqRav-teeZZpZGsw/w600/000.jpg",
+    link: "https://dramabreezemovie.blogspot.com/2024/11/me-encanta-la-manera-en-que-mientes.html"
+},
+{
     title: "El Resurgimiento del Gran Soberano",
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfcXDk_9mR09dWPebvSGPzLvOw3nEDuRlf0cykgLWU6MUAFVsMFq2DNeV835XgwH7B0V720Vho61OlSoMfK3mSFxXlSpdJFfm-1kjMz46yuawuzGfRYxtUqiJTtidpdiNM17WV3Egz4kqabl9YGx_ycVfDHyITYUgUWcfNVB0izHIHAT4V4Lpb15_XqeY/s320/000.jpg",
     link: "https://dramabreezemovie.blogspot.com/2025/01/el-resurgimiento-del-gran-soberano.html"
