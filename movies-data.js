@@ -7,7 +7,7 @@ let movies = [
 {
     title: "El Despertar del Comandante (Doblado)",
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf7hUnRdI1Rnn4bPwM0ewyMMG1c3JX80tT7RaOaVTsMkHJMG2ttPfakckN7szUt3sAqHzbMtZhJDSqypHu6-QnN7BJDtMppPfP3pNHSV8Klx2mdn3upNGHUyoEf_hfqKUMW10Yuh5sQePbpLEWu4kLGDR1XDUhKIkkkE-3YtfJjO5BbNC1ez9MzCmzoEg/w600/T1%20EP.000%20%28SubEsp%29%20El%20Despertar%20del%20Comandante.jpg",
-    Subtítulos: true,
+    doblado: true,
     link: "https://dramabreezemovie.blogspot.com/2024/11/el-despertar-del-comandante_22.html"
 },
 {
