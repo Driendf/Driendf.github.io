@@ -5,6 +5,12 @@ const _0x3b46da=_0x11ac;function _0x11ac(_0x158aa6,_0xac3b8){const _0x5ade72=_0x
 // Lista inicial de películas
 let movies = [
 {
+    title: "El Despertar del Comandante (Doblado)",
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf7hUnRdI1Rnn4bPwM0ewyMMG1c3JX80tT7RaOaVTsMkHJMG2ttPfakckN7szUt3sAqHzbMtZhJDSqypHu6-QnN7BJDtMppPfP3pNHSV8Klx2mdn3upNGHUyoEf_hfqKUMW10Yuh5sQePbpLEWu4kLGDR1XDUhKIkkkE-3YtfJjO5BbNC1ez9MzCmzoEg/w600/T1%20EP.000%20%28SubEsp%29%20El%20Despertar%20del%20Comandante.jpg",
+    Subtítulos: true,
+    link: "https://dramabreezemovie.blogspot.com/2024/11/el-despertar-del-comandante_22.html"
+},
+{
     title: "Mi Supermercado, Su Depósito del Ejército",
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC5Vg2WnRxXFlxiaXxyRfj-u2cyfWSklH8_WQ6fPJlUb_p5nuFIMB05fOA4hNfN-F9ca4PMIIgW4ZHcuU1WM0DOCYvWkcc1fs0S9l3_ZYQf5s8frZvpXy_vRoS6Fi5Axd7YhgA5iZnsgeo5sHmOLW8XGpmhuv1omHC3qVWqcLacugUeoCUwpvU474jopc/s200/T1%20EP.000%20%20%28SubEsp%29%20Mi%20Supermercado,%20Su%20Dep%C3%B3sito%20del%20Ej%C3%A9rcito.jpg",
     link: "https://dramabreezemovie.blogspot.com/2025/01/mi-supermercado-su-deposito-del-ejercito.html"
@@ -417,12 +423,6 @@ let movies = [
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcJMeJK4-SpdgCsWxq3GBP_n_hLcQMGpyhMo-5z8Yh26AXvs4d_wWWJSk3jD3yaa2bSnNNw3Lf-5CUT2Z18UbY-LgvKknhmqW2vHghdib20fzya3zeWvZfpMU3_Zz4pB8DWAIsqhItJFG1uvRAM6LacuxL9rwMSjr1ziJnCqWBaNHqJ7KXlLWu4HG2BfM/w600/T1%20EP.000%20%28Latino%29%20La%20Traici%C3%B3n%20del%20Amor.%20Fierce%20Grace.%20Braving%20the%20Betrayal.jpg",
     doblado: true,
     link: "https://dramabreezemovie.blogspot.com/2024/11/la-traicion-del-amor-doblado_22.html"
-},
-{
-    title: "El Despertar del Comandante",
-    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf7hUnRdI1Rnn4bPwM0ewyMMG1c3JX80tT7RaOaVTsMkHJMG2ttPfakckN7szUt3sAqHzbMtZhJDSqypHu6-QnN7BJDtMppPfP3pNHSV8Klx2mdn3upNGHUyoEf_hfqKUMW10Yuh5sQePbpLEWu4kLGDR1XDUhKIkkkE-3YtfJjO5BbNC1ez9MzCmzoEg/w600/T1%20EP.000%20%28SubEsp%29%20El%20Despertar%20del%20Comandante.jpg",
-    Subtítulos: true,
-    link: "https://dramabreezemovie.blogspot.com/2024/11/el-despertar-del-comandante_22.html"
 },
 {
     title: "Más Allá del Tiempo - El Amor Me Trajo a Ti",
