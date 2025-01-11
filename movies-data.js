@@ -5,6 +5,12 @@ const _0x3b46da=_0x11ac;function _0x11ac(_0x158aa6,_0xac3b8){const _0x5ade72=_0x
 // Lista inicial de películas
 let movies = [
 {
+    title: "Enmascarado: El Yerno Dominante (Doblado)",
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXinD6aiCjaL4_GYXlzco0lD72xa9ENG2YrmluGgmBKXu4OOWRDTk6XM5TqwFdEqQjWW63jy9bi2_iDipi1Skibktw937VipIrVUDsvmj7q-uYXyouPXw-y_4hQj46y92fQzqH6oPtQ_Xe86pnHgyPFlSPiWlVY2HfChOJxFpNVMAjsVQJ0eD5fHhzLos/w600/0000.jpg",
+    doblado: true,
+    link: "https://dramabreezemovie.blogspot.com/2025/01/enmascarado-el-yerno-dominante-doblado.html"
+},
+{
     title: "El Despertar del Comandante (Doblado)",
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf7hUnRdI1Rnn4bPwM0ewyMMG1c3JX80tT7RaOaVTsMkHJMG2ttPfakckN7szUt3sAqHzbMtZhJDSqypHu6-QnN7BJDtMppPfP3pNHSV8Klx2mdn3upNGHUyoEf_hfqKUMW10Yuh5sQePbpLEWu4kLGDR1XDUhKIkkkE-3YtfJjO5BbNC1ez9MzCmzoEg/w600/T1%20EP.000%20%28SubEsp%29%20El%20Despertar%20del%20Comandante.jpg",
     doblado: true,
