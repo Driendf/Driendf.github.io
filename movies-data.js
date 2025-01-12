@@ -4,6 +4,12 @@ const _0x3b46da=_0x11ac;function _0x11ac(_0x158aa6,_0xac3b8){const _0x5ade72=_0x
 
 // Lista inicial de películas
 let movies = [
+  {
+    title: "La Luz que Salió de las Sombras (Doblado)",
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD7Iuh743e7h8Yx3zC8_q2XsFfYjhV1Ja1uZi_UregWhQZUjj4Hassoi650T-OSgjug85EGyi9nZ3USR_YnUkU_CeoxaAhIOPLwySqFW3qil9fEAP7AsejecvgmhWeQYAmVvWPG5znh3Hqj5GVeKVK4gF_IiMSFweUFXaGl3eEeVxFqRjVUk2_vollUqE/w600/000.jpg",
+    doblado: true,
+    link: "https://dramabreezemovie.blogspot.com/2024/12/la-luz-que-salio-de-las-sombras.html"
+  },
 {
     title: "Enmascarado: El Yerno Dominante (Doblado)",
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXinD6aiCjaL4_GYXlzco0lD72xa9ENG2YrmluGgmBKXu4OOWRDTk6XM5TqwFdEqQjWW63jy9bi2_iDipi1Skibktw937VipIrVUDsvmj7q-uYXyouPXw-y_4hQj46y92fQzqH6oPtQ_Xe86pnHgyPFlSPiWlVY2HfChOJxFpNVMAjsVQJ0eD5fHhzLos/w600/0000.jpg",
@@ -548,12 +554,7 @@ const additionalMovies = [
     Subtítulos: true,
     link: "https://dramabreezemovie.blogspot.com/2024/11/a-estrella-para-toda-mi-vida.html"
 },
-  {
-    title: "La Luz que Salió de las Sombras",
-    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD7Iuh743e7h8Yx3zC8_q2XsFfYjhV1Ja1uZi_UregWhQZUjj4Hassoi650T-OSgjug85EGyi9nZ3USR_YnUkU_CeoxaAhIOPLwySqFW3qil9fEAP7AsejecvgmhWeQYAmVvWPG5znh3Hqj5GVeKVK4gF_IiMSFweUFXaGl3eEeVxFqRjVUk2_vollUqE/w600/000.jpg",
-    Subtítulos: true,
-    link: "https://dramabreezemovie.blogspot.com/2024/12/la-luz-que-salio-de-las-sombras.html"
-  },
+
   // Agrega más elementos aquí
 ];
 
